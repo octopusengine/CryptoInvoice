@@ -6,7 +6,7 @@
 
 <hr />
 Octopus engine contribution:<br />
-2016 - python + raspberry - simple crypto machine<br />
+2016 - python + raspberry - simple crypto machine (communication with blockchain)<br />
 https://github.com/octopusengine/cryptomat<br />
 <br />
 2017 - python - linux - private keys (BTC/LTC/VTC) QR code, wallet derivation, PK and picture noise<br />
@@ -57,6 +57,8 @@ TECHNICKÉ POŽADAVKY<br />
 Technické požadavky, které by mělo řešení splňovat:<br />
 <hr />
 Octopus EDIT:<br />
+Server - Client<br />
+PHP? Linux - cron - JS - AJAX - JSON blockchain transaction parser - ...
 
 
 
