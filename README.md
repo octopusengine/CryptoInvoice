@@ -17,7 +17,7 @@ http://www.octopusengine.org/crypto/<br />
 <br />
 
 <hr />
-Zde je pouze raw-view zadáníCZ.doc k 28.2.2018<br />
+<b>Zde je pouze raw-view zadáníCZ.doc k 28.2.2018</b><br />
 CRYPTOINVOICE<br />
 
 Cílem je vytvořit open source software pod MIT licencí, který bude sloužit osobám, které v rámci své podnikatelské nebo jiné činnosti chtějí přijímat kryptoměny, aniž by je potřebovali směnit do FIATu (dále jen „Uživatel“).
