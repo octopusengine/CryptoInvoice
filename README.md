@@ -15,6 +15,10 @@ https://github.com/octopusengine/virtualcoin<br />
 2018 - php testing - QR / blockchain.. etc<br />
 http://www.octopusengine.org/crypto/<br />
 <br />
+<hr />
+PP projekt<br />
+https://github.com/Learn-by-doing/crypto-terminal< /br>
+
 
 <hr />
 <b>Zde je pouze raw-view zadáníCZ.doc k 28.2.2018</b><br />
