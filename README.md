@@ -64,6 +64,28 @@ Octopus EDIT:<br />
 Server - Client<br />
 PHP? Linux - cron - JS - AJAX - JSON blockchain transaction parser - ...
 
+<br /><hr />
+Tomáš Starý<br />
+<br /><br />
+
+<br /><hr />
+Petr Kracík<br />
+<br /><br />
+
+<br /><hr />
+Hans von Kamitz<br />
+<br /><br />
+
+<br /><hr />
+Filip Dobrovolný<br />
+<br /><br />
+
+<br /><hr />
+Martin Polívka<br />
+<br /><br />
+
+
+
 
 
 
